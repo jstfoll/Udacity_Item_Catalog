@@ -1,9 +1,7 @@
-# Item-Catalog-Application
+# Udacity_Item_Catalog
 * This application  provides a list of items within a variety of categories as well as provide a user authentication system.  Users will have the ability to post, edit and delete their own items.
-> [![Image](gif/catalog1.gif)](Image)
 
-## Getting Started
-* You can *[clone](https://github.com/arrickx/Item-Catalog-Application.git)* or *[download](https://github.com/arrickx/Item-Catalog-Application.git)* this project via [GitHub](https://github.com) to your local machine.
+
 
 ### Prerequisites
 You will need to install these following application in order to make this code work.
@@ -44,25 +42,8 @@ $ python lotsofitems.py
 ```sh
 $ python project.py
 ```
-* After finish running project.py you can use your favorite browser to visit [this link](http://localhost:8000/)
+* After finish running project.py you can use your favorite browser to visit http://localhost:8000/
 
-### How to use
-* You can browse through the website to find out the different categories of movies.
-> [![Image](gif/catalog1.gif)](Image)
-* You can also create you own items after you login.
-> [![Image](gif/catalog2.gif)](Image)
-* Only the users who created the item have the ability to post, edit, and delete it.
-* You can edit an item that you created.
-> [![Image](gif/catalog3.gif)](Image)
-* You can also delete the item that you created.
-> [![Image](gif/catalog4.gif)](Image)
-* Once you log out. You can lost your right to change it.
-> [![Image](gif/catalog5.gif)](Image)
 
-## License
 
-* This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-* [VM configuration](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59822701_fsnd-virtual-machine/fsnd-virtual-machine.zip) was provided by [udacity](https://www.udacity.com).
-* Movie icon was provided by [iconfinder](https://www.iconfinder.com/icons/351069/camera_film_movie_rolls_video_icon).
