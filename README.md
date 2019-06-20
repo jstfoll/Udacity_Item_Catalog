@@ -59,10 +59,4 @@ $ python project.py
 * Once you log out. You can lost your right to change it.
 > [![Image](gif/catalog5.gif)](Image)
 
-## License
 
-* This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-* [VM configuration](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59822701_fsnd-virtual-machine/fsnd-virtual-machine.zip) was provided by [udacity](https://www.udacity.com).
-* Movie icon was provided by [iconfinder](https://www.iconfinder.com/icons/351069/camera_film_movie_rolls_video_icon).
